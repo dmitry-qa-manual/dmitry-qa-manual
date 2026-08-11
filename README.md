@@ -27,9 +27,9 @@ I'm looking for opportunities to develop professionally in software testing and 
 
 ## 📫 Contact
 
-- **GitHub:** https://github.com/USERNAME
-- **Telegram:** @USERNAME
-- **Email:** your-email@example.com
-- **HH.ru:** YOUR_HH_LINK
+- **GitHub:** https://github.com/dmitry-qa-manual
+- **Telegram:** @ramsey136
+- **Email:** vorobyov36@yandex.ru
+- **HH.ru:** https://voronezh.hh.ru/resume/259f7483ff10a4a4e30039ed1f457571465654
 
 **Open to QA Engineer opportunities.**
