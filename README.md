@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hello! I'm a QA Engineer
 
-<!--
-**dmitry-qa-manual/dmitry-qa-manual** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm developing my career in software testing and building my skills in web, mobile and API testing.
 
-Here are some ideas to get you started:
+I chose QA because I enjoy analyzing how software works, finding unexpected issues and helping improve product quality.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Tools
+
+- **Testing:** Functional Testing, Regression Testing, Web Testing, Mobile Testing, API Testing
+- **Test Design:** Test Analysis, Test Design, Checklists, Test Cases, Bug Reports
+- **API:** Swagger, Postman
+- **Database:** SQL
+- **Mobile:** Android Studio
+- **Other:** Client-Server Architecture, DevTools
+
+## 📚 Education
+
+**Yandex Practicum — Software Testing**
+
+Studied software testing and gained practical experience testing web and mobile applications, as well as APIs.
+
+## 💼 Experience
+
+Currently working in customer support at Ozon Fresh, where I work with customer requests and analyze issues related to the service.
+
+I'm looking for opportunities to develop professionally in software testing and QA.
+
+## 📫 Contact
+
+- **GitHub:** https://github.com/USERNAME
+- **Telegram:** @USERNAME
+- **Email:** your-email@example.com
+- **HH.ru:** YOUR_HH_LINK
+
+**Open to QA Engineer opportunities.**
