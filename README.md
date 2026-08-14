@@ -1,8 +1,8 @@
 # 👋 Hello! I'm a QA Engineer
 
-I'm building my career in software testing with a focus on web, mobile and API testing.
+I'm building my career in software testing with a focus on web, mobile, and API testing.
 
-I enjoy analyzing requirements, designing test cases, finding bugs and helping improve software quality.
+I enjoy analyzing requirements, designing test cases, finding bugs, and helping improve software quality.
 
 ## 🛠️ Skills & Tools
 
@@ -47,34 +47,42 @@ Practical experience in:
 
 ## 🚀 Projects
 
-### Yandex Samokat — Web Testing
+### 🌐 Yandex Samokat — Web Testing
 
 * Analyzed requirements and designed test scenarios
 * Created checklists and test cases
+* Applied Equivalence Partitioning and Boundary Value Analysis
 * Performed functional and cross-browser testing
 * Tested different screen resolutions
 * Reported and documented bugs
 
-### Yandex Metro — Mobile Testing
+[View project →](https://github.com/dmitry-qa-manual/yandex-samokat-web-testing)
+
+### 📱 Yandex Samokat — Mobile Testing
 
 * Performed functional and regression testing of an Android application
-* Tested route building, station selection, maps and application behavior
-* Tested different screen orientations and device configurations
+* Tested push notifications in different application states
+* Tested notification behavior on the lock screen
+* Tested network error handling
 * Reported and documented bugs
 
-### Yandex Prilavok — API Testing
+[View project →](https://github.com/dmitry-qa-manual/yandex-samokat-mobile-testing)
+
+### 🔌 Yandex Prilavok — API Testing
 
 * Tested REST API endpoints using Postman and Swagger
-* Designed positive and negative test cases
+* Designed positive and negative test scenarios
 * Verified HTTP status codes and response data
 * Tested request parameters and boundary cases
 * Documented discovered defects
 
+[View project →](https://github.com/dmitry-qa-manual/yandex-prilavok-api-testing)
+
 ## 💼 Experience
 
-Currently working in customer support at Ozon Fresh.
+Currently working in customer support at **Ozon Fresh**.
 
-This experience helps me develop analytical thinking, attention to detail, communication skills and the ability to investigate and solve user issues.
+This experience helps me develop analytical thinking, attention to detail, communication skills, and the ability to investigate and solve user issues.
 
 ## 🎯 Career Goal
 
