@@ -32,6 +32,7 @@ I enjoy analyzing requirements, designing test cases, finding bugs, and helping 
 * Client-Server Architecture
 * HTTP
 * REST API
+* JSON
 
 ## 📚 Education
 
@@ -74,6 +75,7 @@ Practical experience in:
 * Designed positive and negative test scenarios
 * Verified HTTP status codes and response data
 * Tested request parameters and boundary cases
+* Worked with JSON request and response data
 * Documented discovered defects
 
 [View project →](https://github.com/dmitry-qa-manual/yandex-prilavok-api-testing)
@@ -86,7 +88,7 @@ This experience helps me develop analytical thinking, attention to detail, commu
 
 ## 🎯 Career Goal
 
-I'm looking for an opportunity to grow as a QA Engineer and contribute to software quality.
+Looking for an opportunity to develop professionally as a QA Engineer and contribute to software quality.
 
 ## 📫 Contact
 
